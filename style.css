@@ -46,3 +46,15 @@ h1{
     padding-right: 150px;
     
 }
+.background p{
+    font-size: 30px;
+    text-align: justify;
+}
+.my-recipies{
+    text-align: center;
+    margin-top: 60px;
+}
+.my-recipies h2{
+    font-size: 29px;
+    font-weight: 700;
+}
