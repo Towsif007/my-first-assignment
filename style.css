@@ -82,3 +82,12 @@ h1{
     padding-bottom: 10px;
     padding-right: 10px;
 }
+footer{
+    background-color: black;
+    margin-top: 90px;
+    text-align: center;
+    padding: 50px;
+}
+footer h2 {
+    color: white;
+}
