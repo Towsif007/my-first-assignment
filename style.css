@@ -90,3 +90,12 @@ footer{
 footer h2 {
     color: white;
 }
+.vegitables-food{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.vegitables-food img{
+    width: 50%;
+}
