@@ -13,11 +13,9 @@ h1{
 
 .good-food{
     display: flex;
-} 
-.good-food{
     padding-left: 50px;
     padding-top: 60px;
-}
+}   
 .go-to-link{
     background-image: linear-gradient(to left, blue, violet);
     text-decoration: none;
@@ -35,7 +33,7 @@ h1{
 }
 #woman{
     width: 60%;
-    margin-top: 30px;
+    margin-top: 90px;
     padding-left: 30px;
 }
 .background{
