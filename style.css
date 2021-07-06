@@ -58,3 +58,27 @@ h1{
     font-size: 29px;
     font-weight: 700;
 }
+.food-picture{
+    background-image: linear-gradient(white, white);
+    width: 100%;   
+    margin-right: 6%;
+    margin-bottom: 20px;   
+    box-shadow: 2px 5px 6px grey;
+    border-radius: 25px;
+    
+}
+.food-picture img{
+   width: 100%; 
+   padding: -10px;
+    
+}
+.food-picture h2 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.food-picture p{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
